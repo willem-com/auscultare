@@ -17,3 +17,4 @@ local.properties
 # Not part of the source tree (release artifacts on source.willem.com)
 /v1.0/
 .idea/
+/app/release/
